@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Prak2</string>
+    <string name="same_day">Same Day Messenger Service</string>
+    <string name="next_day">Next Day Ground Service</string>
+    <string name="pick_up">Pick Up</string>
+
+    <string-array name="labels_array">
+        <item>Home</item>
+        <item>Work</item>
+        <item>Mobile</item>
+        <item>Other</item>
+    </string-array>
+</resources>
+
+
