@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Perpustakaan Lockdown</string>
+    <string name="title_placeholder">Title</string>
+    <string name="news_placeholder">Book Genre</string>
+    <string name="sports_info_placeholder">Here is some books</string>
+
+    <string-array name="sports_titles">
+        <item>Covid-19</item>
+        <item>Healthy Lifestyle</item>
+        <item>Global Condition</item>
+        <item>Science</item>
+        <item>Sports</item>
+        <item>History</item>
+        <item>Fiction</item>
+        <item>Novel</item>
+        <item>Biography</item>
+    </string-array>
+
+    <string-array name="sports_info">
+        <item>Disini berisi buku mengenai virus COVID-19 dan sejenisnya.</item>
+        <item>Disini berisi buku untuk menjaga kesehatan dan kebugaran tubuh.</item>
+        <item>Disini berisi buku mengenai keaadan didalam dunia ini.</item>
+        <item>Disini berisi buku mengenai ilmu pengetahuan agar kita memahami cara bekerjanya kehidupan.</item>
+        <item>Disini berisi buku mengenai olahraga, sejarahnya, dan cara kita mengimplementasinya.</item>
+        <item>Disini berisi buku mengenai sejarah dunia yang sudah dialami para leluhur kita.</item>
+        <item>Disini berisi buku mengenai fiksi agar kita bisa sementara lari dari kenyataan.</item>
+        <item>Disini berisi buku berjenis novel untuk mengisi waktu luang kita yang lama ini.</item>
+        <item>Disini berisi buku mengenai biografi seseorang atau sesuatu yang bisa kita baca.</item>
+    </string-array>
+
+    <array name="sports_images">
+        <item>@drawable/covid_19</item>
+        <item>@drawable/health</item>
+        <item>@drawable/global</item>
+        <item>@drawable/science</item>
+        <item>@drawable/sports</item>
+        <item>@drawable/history</item>
+        <item>@drawable/fiction</item>
+        <item>@drawable/novel</item>
+        <item>@drawable/biography</item>
+    </array>
+
+    <string name="home">Home</string>
+    <string name="saved_book">Saved Book</string>
+    <string name="about">About App</string>
+    <string name="desc">Sebagai tindakan pencegahan penyebaran COVID-19, Saya membuat aplikasi ini untuk memberikan aktivitas produktif untuk pengguna. Salah satunya adalah mencari buku yang sesuai dengan keadaan sekarang. </string>
+
+
+    <string name="thumbnail">thumbnail</string>
+    <string name="title">Beginning Android 2</string>
+    <string name="category">Computers</string>
+    <string name="price">120 EG</string>
+    <string name="author">Mark Murphy</string>
+
+    <string name="search">SEARCH</string>
+    <string name="hint">Enter your query </string>
+    <string name="description_image_view">Template for  the image</string>
+    <string name="description_divider">Divider</string>
+    <string name="Failed_to_Load_data">Please check your Internet Connection</string>
+    <string name="NO_RESULT">No matching results</string>
+</resources>
